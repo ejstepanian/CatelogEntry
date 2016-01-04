@@ -1,0 +1,10 @@
+GM production,1487191,password
+
+GM production = https://www.centerlearning.com/HomePage/Portal.asp
+GMIO = https://www.gmiotraining.com/HomePage/LoginPage.aspx?iCompanyID=9
+Schwab = https://www.schwabadvisoruniversity.com/homepage/loginpage.aspx?schwab1030=1
+Urban = https://www.urbanscienceuniversity.com/HomePage/LoginPage.aspx
+Alldata = https://training.alldata.com/HomePage/LoginPage.aspx?iCompanyID=1
+ACDelco = https://www.acdelcotraining.com/HomePage/LoginPage.asp?iCompanyID=10
+Pep Boys = Unavailable
+
